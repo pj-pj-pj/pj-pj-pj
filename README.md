@@ -30,7 +30,8 @@ I am :currently: an ✨ Aspiring Web Developer ✨ <img src="https://media.giphy
 - ⚡ fun fact: i love wearing matching clothes 👚
   
 <div align="center">
-  <h3>"You don't have to have it all figured out to move forward. It's okay to take small steps, even when you're not feeling confident."</h3>
+  <h3>"You don't have to have it all figured out to move forward. <br>
+  It's okay to take small steps, even when you're not feeling confident."</h3>
 </div>
 
 ---
