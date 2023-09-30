@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/3383fc6fe1edfd7b33eeced6d2cbf7d9/tumblr_mxo61dIr4D1qm4xi6o1_500.gif" width="100"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/paula-joyce-ucol-876958291">
+    <a href="https://www.linkedin.com/in/paula-joyce-ucol-876958291">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/HTTP_404">
