@@ -24,10 +24,9 @@
 I am :currently: an ✨ Aspiring Web Developer ✨ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📚 pursuing a Computer Science degree
-- ⌨️ learning Web Development in my free time with The Odin Project
-- also 🤗 https://education.github.com/ 🤗
+- ⌨️ learning Web Development in my free time 
 - 😄 pronouns: she/her🧚‍♀️
-- ⚡ fun fact: i love wearing matching clothes 👚
+- ⚡ fun fact: i eat, drink & poop 💩
   
 <div align="center">
   <h3>"You don't have to have it all figured out to move forward. <br>
