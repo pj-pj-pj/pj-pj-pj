@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/paula-joyce-ucol-876958291">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://en.wikipedia.org/wiki/HTTP_404">
+    <a href="https://www.instagram.com/paulajoyceucol/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=blue" alt="Instagram Badge"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/HTTP_404">
