@@ -21,10 +21,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am :currently: an ✨ Aspiring Web Developer ✨ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📚 pursuing a Computer Science degree
-- ⌨️ learning Web Development in my free time 
+- ⌨️ learning in my free time 
 - 😄 pronouns: she/her🧚‍♀️
 - ⚡ fun fact: i eat, drink & poop 💩
   
