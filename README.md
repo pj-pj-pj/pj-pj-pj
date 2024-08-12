@@ -23,7 +23,6 @@
 ### :woman_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- ⌨️ learning in my free time 
 - 😄 pronouns: she/her🧚‍♀️
 - ⚡ fun fact: i eat, drink & poop 💩
   
