@@ -6,6 +6,6 @@
 <pre>
    -   💼 BSCS @ TSU • Junior • 3rd Yr
    -   💻 WebDev • 1% HTML • 99% 404
-   -   🎮 Lo-fi • Games • Code
-   -   📱 Anime • Manga/Manhwa • LN
+   -   🎮 Games • Code • Cartoons
+   -   📱 Anime • Manga/Manhwa • 0.5% LN
 </pre>
