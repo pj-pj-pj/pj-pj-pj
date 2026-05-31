@@ -13,7 +13,7 @@
 <img align="left" src="https://i.gifer.com/XfQ1.gif" width="15%" />
 
 
-   - [x]  💼 BSCS @ TSU • Junior • 4th Yr(!)
+   - [x]  💼 Full-Stack Dev | Tauga AI
    - [x]  💻 WebDev • 1% HTML • 99% 404
    - [x]  🎮 Games • Code • Cartoons
    - [x]  📱 Anime • Manga/Manhwa • 0.5% LN
